@@ -1,0 +1,2 @@
+include ':app', ':myapp', ':tp1calculatrice', ':myappcours', ':exempleweb'
+rootProject.name='My Application'
